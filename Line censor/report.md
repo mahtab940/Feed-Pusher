@@ -1,4 +1,4 @@
-## Here is the code
+## Here is the code for line censor of two motors
 // Shift register control pins
 const int MOTORLATCH  = 12;
 const int MOTORCLK    = 4;
@@ -132,5 +132,9 @@ void loop() {
     driveAll('S', 0);
   }
  
-  delay(100);
+  delay(10);
 }
+
+## Here is the video of my work
+
+[▶️ Watch the video](pic/A1.mp4)
