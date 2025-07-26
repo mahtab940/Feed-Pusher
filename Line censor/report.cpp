@@ -1,4 +1,4 @@
-## Here is the code for line censor of two motors
+# Here is the code for line censor of two motors
 // Shift register control pins
 const int MOTORLATCH  = 12;
 const int MOTORCLK    = 4;
